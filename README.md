@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1tJbM2tmMmJsgdB4LUVlgj5JjX1TNc8zw" />
 
 - 👨🏽‍💻 Crafting the Web with 'ClickToGain';
 - 🌱 I’m currently learning ReactJs; 
