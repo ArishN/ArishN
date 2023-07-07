@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1tJbM2tmMmJsgdB4LUVlgj5JjX1TNc8zw" />
 
 - 👨🏽‍💻 Crafting the Web with 'ClickToGain';
-- 🌱 I’m currently learning ReactJs; 
+- 🌱 I’m currently learning Next.js; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Batman 🦇 -LOL;
 - 📫 How to reach me: itsarish2001@gmail.com;
