@@ -40,17 +40,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+   <code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 </p>
 
 <!-- Your hits or visitors
