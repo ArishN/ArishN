@@ -34,7 +34,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/ArishN/">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ArishN&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://firebasestorage.googleapis.com/v0/b/arishn-portfolio.appspot.com/o/developer.webp?alt=media&token=4b928f0c-9506-4f01-a98f-321f457a7969" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
