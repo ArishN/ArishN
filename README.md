@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://firebasestorage.googleapis.com/v0/b/arishn-portfolio.appspot.com/o/developer.webp?alt=media&token=4b928f0c-9506-4f01-a98f-321f457a7969" />
+<img width="40%" align="right" alt="Github" src="https://firebasestorage.googleapis.com/v0/b/arishn-portfolio.appspot.com/o/developer.webp?alt=media&token=4b928f0c-9506-4f01-a98f-321f457a7969" />
 
 - 👨🏽‍💻 Crafting the Web with 'ClickToGain';
 - 🌱 I’m currently learning Angular; 
